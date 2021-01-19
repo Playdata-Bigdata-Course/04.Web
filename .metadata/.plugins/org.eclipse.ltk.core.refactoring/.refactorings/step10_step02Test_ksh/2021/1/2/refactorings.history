@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;showError.jsp&apos; to &apos;WEB-INF&apos;&#x0D;&#x0A;- Original project: &apos;step10_step02Test_ksh&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0D;&#x0A;- Original element: &apos;showError.jsp&apos;" description="Copy file" element1="WebContent/showError.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1610008253410" target="/ShoppingProject/WebContent/WEB-INF" units="0" version="1.0"/>
+</session>

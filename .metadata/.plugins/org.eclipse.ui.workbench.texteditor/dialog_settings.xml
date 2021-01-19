@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="ajaxcart" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="ajaxCart"/>
+			<item value="ajaxcart"/>
+			<item value="subto"/>
+			<item value="Your Total "/>
+			<item value="hello"/>
+			<item value="helloe"/>
+			<item value="&lt;span class=&quot;quantity&quot;&gt; "/>
+			<item value="&lt;span class=&quot;quantity&quot;&gt; QTY:10 &lt;/span&gt;"/>
+			<item value="&lt;div class=&quot;shp__pro__details&quot;&gt;"/>
+			<item value="&lt;div class=&quot;mobile-menu clearfix visible-xs visible-sm&quot;&gt;"/>
+			<item value="modal"/>
+			<item value="promo"/>
+			<item value="productModal"/>
+			<item value="modal-body"/>
+			<item value="ti-plus"/>
+		</list>
+		<list key="replacehistory">
+			<item value="receiveId"/>
+			<item value="UTF-8"/>
+			<item value=""/>
+			<item value="conn"/>
+			<item value="${pageContext.request.contextPath}/images"/>
+			<item value="images"/>
+			<item value="utf"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="389" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="674" key="DIALOG_X_ORIGIN"/>
+		<item value="426" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

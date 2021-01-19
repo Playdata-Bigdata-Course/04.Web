@@ -1,0 +1,8 @@
+1608692816335	Move 3 resources to 'WebContent'
+1608852131622	Copy package
+1608852152095	Delete element
+1608852184183	Rename type 'ActivistDTO'
+1608852200910	Rename type 'ProbonoDTO'
+1608852214889	Rename type 'ProbonoProjectDTO'
+1608852229745	Rename type 'RecipientDTO'
+1608852840329	Rename package 'probono.model.enity'
