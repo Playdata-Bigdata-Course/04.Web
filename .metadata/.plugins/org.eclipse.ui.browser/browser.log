@@ -1,5 +1,0 @@
-
-12월 22, 2020 23:47:13.41 NEW SESSION
-12월 22, 2020 23:47:13.41 [1222/234713.398:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
-12월 23, 2020 24:42:28.26 [10512:9008:1223/004228.268:ERROR:CONSOLE(8)] "Refused to load the script 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?_=1608651745289' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' https://www.papaly.com https://papaly.com https://sl2.heroku.com https://sl2.herokuapp.com https://www.google-analytics.com https://maps.googleapis.com https://rcm-na.amazon-adsystem.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
-12월 23, 2020 24:42:28.27 ", source: application.js (8)
